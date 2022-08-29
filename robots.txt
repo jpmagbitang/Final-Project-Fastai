@@ -1,0 +1,1 @@
+Sitemap: https://jpmagbitang.github.io/Final-Project-Fastai/sitemap.xml
